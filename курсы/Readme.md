@@ -7,3 +7,5 @@ https://docs.google.com/document/d/1XaMbPQP6rmKWdmD7HoChcLQr6yWPc3f3/edit?usp=sh
 https://docs.google.com/presentation/d/1O9QtSQQgDyQsXQENIDLc_BiuF8a0GjZm/edit?usp=share_link&ouid=110415819422211131437&rtpof=true&sd=true# Презентация
 
 https://docs.google.com/document/d/1XnmZLjuHf1544SGfWA-SYOIONiHynJWc2J_2DiKnLGo/edit?usp=sharing# Студенческий цех
+
+#Филология и литературоведение

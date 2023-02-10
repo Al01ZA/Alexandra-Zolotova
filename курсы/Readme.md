@@ -11,3 +11,5 @@ https://docs.google.com/document/d/1XnmZLjuHf1544SGfWA-SYOIONiHynJWc2J_2DiKnLGo/
 #Филология и литературоведение. Очень актуально и ценно. С Ивановой Сабриной
 
 https://docs.google.com/document/d/1o8b7VLWuvhHjWandaZp1LcTWbmUEc8YEMZsJDmrpcek/edit?usp=drivesdk# акселлератор
+
+https://docs.google.com/presentation/d/10y4HLPQ6gLwAZQxIWFeZgUKBiAdDmort/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# презентация по олимпиаде

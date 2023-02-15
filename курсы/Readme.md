@@ -8,7 +8,7 @@ https://docs.google.com/presentation/d/1O9QtSQQgDyQsXQENIDLc_BiuF8a0GjZm/edit?us
 
 https://docs.google.com/document/d/1XnmZLjuHf1544SGfWA-SYOIONiHynJWc2J_2DiKnLGo/edit?usp=sharing# Студенческий цех
 
-#Филология и литературоведение. Очень актуально и ценно. С Ивановой Сабриной
+#Филология и литературоведение. Очень актуально и ценно. С Ивановой Сабриной и Письменской Анастасией
 
 https://docs.google.com/document/d/1o8b7VLWuvhHjWandaZp1LcTWbmUEc8YEMZsJDmrpcek/edit?usp=drivesdk# акселлератор
 

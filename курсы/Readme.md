@@ -14,4 +14,5 @@ https://docs.google.com/document/d/1o8b7VLWuvhHjWandaZp1LcTWbmUEc8YEMZsJDmrpcek/
 
 https://docs.google.com/presentation/d/10y4HLPQ6gLwAZQxIWFeZgUKBiAdDmort/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# презентация по олимпиаде
 
-https://docs.google.com/document/d/1o0QlUAd1hNgiyJeAlWxUtOVqOnXBxy_t3z8_jpY9dOQ/edit?usp=share_link# Курс2
+https://live.skillbox.ru/webinars/games/osnovy-geimdizaina-mekhanika-dinamika-i-estetika160223/# Второй курс
+https://docs.google.com/document/d/1o0QlUAd1hNgiyJeAlWxUtOVqOnXBxy_t3z8_jpY9dOQ/edit?usp=share_link# Конспект по курсу2

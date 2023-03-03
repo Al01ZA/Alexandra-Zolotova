@@ -17,3 +17,5 @@ https://docs.google.com/presentation/d/10y4HLPQ6gLwAZQxIWFeZgUKBiAdDmort/edit?us
 https://live.skillbox.ru/webinars/games/osnovy-geimdizaina-mekhanika-dinamika-i-estetika160223/# Курс2
 https://docs.google.com/document/d/1o0QlUAd1hNgiyJeAlWxUtOVqOnXBxy_t3z8_jpY9dOQ/edit?usp=share_link# Конспект по курсу2
 https://docs.google.com/presentation/d/1EACKUf0MdurMIjjjwxX3rL_DpuP9M01Vjamd8tPBfCI/edit?usp=share_link# презентация по курсу
+
+https://docs.google.com/presentation/d/1xKm6TF7c37Y7wh_mr5KGo5KjM2258zk34Cdz7-Q2ntY/edit?usp=share_link# Презентация по коду в Python

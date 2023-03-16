@@ -8,8 +8,6 @@ https://docs.google.com/presentation/d/1O9QtSQQgDyQsXQENIDLc_BiuF8a0GjZm/edit?us
 
 https://docs.google.com/document/d/1XnmZLjuHf1544SGfWA-SYOIONiHynJWc2J_2DiKnLGo/edit?usp=sharing# Студенческий цех
 
-#Филология и литературоведение. Очень актуально и ценно. С Ивановой Сабриной и Письменской Анастасией
-
 https://docs.google.com/document/d/1o8b7VLWuvhHjWandaZp1LcTWbmUEc8YEMZsJDmrpcek/edit?usp=drivesdk# акселлератор
 
 https://docs.google.com/presentation/d/10y4HLPQ6gLwAZQxIWFeZgUKBiAdDmort/edit?usp=drivesdk&ouid=110415819422211131437&rtpof=true&sd=true# презентация по олимпиаде
@@ -20,6 +18,7 @@ https://docs.google.com/presentation/d/1EACKUf0MdurMIjjjwxX3rL_DpuP9M01Vjamd8tPB
 
 https://docs.google.com/presentation/d/1xKm6TF7c37Y7wh_mr5KGo5KjM2258zk34Cdz7-Q2ntY/edit?usp=share_link# Презентация по коду в Python
 
-https://docs.google.com/document/d/1z8-BCkZSCTWNYHaGXI4grGbIXm6P07YvG6wju1z_15k/edit?usp=share_link# Тезисы
+#Филология и литературоведение. Очень актуально и ценно. С Ивановой Сабриной и Письменской Анастасией
+https://docs.google.com/document/d/1z8-BCkZSCTWNYHaGXI4grGbIXm6P07YvG6wju1z_15k/edit?usp=share_link# Тезисы по конференции
 
 https://docs.google.com/document/d/1upZf1P1Qi8GvYqdx8U6qc10aOgzUsbV94Md6Pl1Is04/edit?usp=sharing# Акселератор модули

@@ -19,3 +19,5 @@ https://docs.google.com/document/d/1o0QlUAd1hNgiyJeAlWxUtOVqOnXBxy_t3z8_jpY9dOQ/
 https://docs.google.com/presentation/d/1EACKUf0MdurMIjjjwxX3rL_DpuP9M01Vjamd8tPBfCI/edit?usp=share_link# презентация по курсу
 
 https://docs.google.com/presentation/d/1xKm6TF7c37Y7wh_mr5KGo5KjM2258zk34Cdz7-Q2ntY/edit?usp=share_link# Презентация по коду в Python
+
+https://docs.google.com/document/d/1upZf1P1Qi8GvYqdx8U6qc10aOgzUsbV94Md6Pl1Is04/edit?usp=sharing# Акселератор модули

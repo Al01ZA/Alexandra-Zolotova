@@ -22,3 +22,5 @@ https://docs.google.com/presentation/d/1xKm6TF7c37Y7wh_mr5KGo5KjM2258zk34Cdz7-Q2
 https://docs.google.com/document/d/1z8-BCkZSCTWNYHaGXI4grGbIXm6P07YvG6wju1z_15k/edit?usp=share_link# Тезисы по конференции
 
 https://docs.google.com/document/d/1upZf1P1Qi8GvYqdx8U6qc10aOgzUsbV94Md6Pl1Is04/edit?usp=sharing# Акселератор модули
+
+https://docs.google.com/document/d/1SZnbU2XTttkfHZ45tsynO--NStyfNuJM27FKWD9ln2U/edit?usp=sharing# Талант регистрация

@@ -26,3 +26,5 @@ https://docs.google.com/presentation/d/1oFuo2G1EujeEbeEXmIbA6YRXc3mwV4TGG10FxaHA
 https://docs.google.com/document/d/1upZf1P1Qi8GvYqdx8U6qc10aOgzUsbV94Md6Pl1Is04/edit?usp=sharing# Акселератор модули
 
 https://docs.google.com/document/d/1SZnbU2XTttkfHZ45tsynO--NStyfNuJM27FKWD9ln2U/edit?usp=sharing# Талант регистрация
+
+https://docs.google.com/presentation/d/1kDwdy97hmwvRkl5F6nSq6rxAv3QCVkRDrg-t90V_8B8/edit?usp=sharing# HackerRank презентация
